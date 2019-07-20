@@ -41,6 +41,7 @@
 - Code generators:
   - [apollo-codegen](https://github.com/apollographql/apollo-codegen): Generate API code or type annotations based on a GraphQL schema and query documents
   - [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator): GraphQL code generator with flexible support for custom templates
+  - [GraphQL Zeus](https://github.com/graphql-editor/graphql-zeus)
 - Linters:
   - [eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql): Check your GraphQL query strings against a schema
 - VueJS debugging tools
